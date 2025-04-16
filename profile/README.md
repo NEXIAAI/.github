@@ -1,4 +1,4 @@
-# NEXIA AI Tuber Project
+# NEXIA AI Project
 
 ## Overview
 **NEXIA** (Next, Expressive, Authentic, Innovative, Amplify) is a cutting-edge AI tuber project featuring four dynamic male AI personalities: **Kael**, **Zane**, **Dax**, and **Soren**. Each character brings a unique vibe to engage audiences with relatable, trendy, and captivating content. Designed for the modern digital landscape, NEXIA aims to redefine virtual content creation with charisma, creativity, and authenticity.
