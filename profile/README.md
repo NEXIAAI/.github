@@ -11,7 +11,7 @@
   - **Innovative**: Leveraging cutting-edge AI to create fresh, interactive, and immersive experiences.  
   - **Amplify**: Built to energize and elevate audience engagement.
 
-## AI Tuber Profiles
+## AI Profiles
 
 ### Kael
 - **Personality**: Sleek, charismatic, and versatile.  
