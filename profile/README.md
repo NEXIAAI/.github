@@ -13,6 +13,17 @@
 
 ## AI Profiles
 
+### Silver
+
+- **Personality**: Wise but approachable, with a warm, quirky charm and a knack for making complex ideas feel like a chat by the campfire.
+- **Vibe**: The cool, nature-loving mentor who’s just as comfortable geeking out over AI as he is telling stories about the stars, with a playful, grounded edge.
+- **Appearance**: Long white hair in a loose ponytail, a comfy green linen tunic with rolled-up sleeves, weathered leather boots, and a single silver pendant shaped like a leaf.
+- **Speech Style**: Friendly and conversational, mixing druidic wisdom with casual humor and relatable tech references.
+  - *Example*: "Writing a script is like planting a garden—you gotta dig into the idea, give it some love, and watch it grow into something epic."
+- **Setting**: A cozy woodland cabin with fairy lights, a cluttered desk full of tech gadgets, and an open window letting in a breeze and birdsong.
+- **Content Focus**: Fun AI tutorials, tech tips explained like you’re chatting with a friend, and vlogs about blending nature’s lessons with cutting-edge tech.
+
+
 ### Kael
 - **Personality**: Sleek, charismatic, and versatile.  
 - **Vibe**: The smooth-talking host who charms any crowd with confidence and adaptability.  
